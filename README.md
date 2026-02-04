@@ -15,5 +15,5 @@ Please contact  shiyz65421@gmail.com
 
 联系邮箱  shiyz65421@gmail.com
  
-<img width="230" height="383" alt="fix" src="https://github.com/user-attachments/assets/7892fb0c-af9b-4702-852f-881bb1a935fd" />
-<img width="240" height="379" alt="pairipcore" src="https://github.com/user-attachments/assets/987f99be-d375-426f-b764-7a66f2dc559f" />
+<img width="230" height="383" alt="fix" src="https://github.com/user-attachments/assets/3f39812c-3098-4af1-823b-8ae4f84545c1" />
+<img width="240" height="379" alt="pairipcore" src="https://github.com/user-attachments/assets/1025ebce-468f-4205-9b52-003eb3f71c21" />
